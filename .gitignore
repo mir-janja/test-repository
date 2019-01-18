@@ -1,0 +1,11 @@
+node_modules
+/app/**/*.js
+/app/**/*.js.map
+npm-debug.log
+.DS_Store
+/dist
+
+!systemjs.config.js
+!/assets/js/*.js
+
+/.idea
